@@ -1,5 +1,5 @@
 {
-    "version": "2.5.8",
-    "download_url": "https://github.com/ellanfvnky/mediaflow-updates/releases/tag/v2.5.8",
-    "notes": "Bug fixes and improvements"
+    "version": "3.0.0",
+    "download_url": "https://github.com/ellanfvnky/mediaflow-updates/releases/tag/v3.0.0",
+    "notes": "Audio preview, thumbnail preview, metadata embedding"
 }
