@@ -8,8 +8,6 @@ MediaFlow is a modern desktop application for downloading and converting media f
 
 * 🎵 Download audio (MP3) & video (MP4)
 * ⚡ High-speed processing powered by yt-dlp + FFmpeg
-* 🖼️ Preview with thumbnail & metadata
-* 🎧 Audio preview before download
 * 📦 Ready-to-use installer (.exe)
 * 🔄 Built-in auto update system
 
@@ -24,13 +22,16 @@ MediaFlow is a modern desktop application for downloading and converting media f
 
 ## 🖥️ Screenshot
 
-<img width="822" height="899" alt="Screenshot 2026-04-28 102317" src="https://github.com/user-attachments/assets/da708340-feb7-482d-b8e3-d201548462a3" />
+<img width="1200" height="820" alt="Screenshot 2026-05-14 144416" src="https://github.com/user-attachments/assets/a1216232-2094-4a0e-9038-d29619d42bc7" />
+
 
 ---
 
 ## ⚙️ Technologies
 
-* Python (PyQt6)
+* Electron 28
+* React + Vite
+* Tailwind CSS
 * yt-dlp
 * FFmpeg
 
@@ -39,15 +40,15 @@ MediaFlow is a modern desktop application for downloading and converting media f
 ## 📦 Installation (Developer)
 
 ```bash
-pip install -r requirements.txt
-python main.py
+npm install
+npm run dev
 ```
 
 ---
 
 ## 👤 Developer
 
-Developed by **Claude AI**
+Developed by **Ellan Fvnky**
 
 ---
 
