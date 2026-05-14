@@ -1,5 +1,5 @@
 {
-    "version": "3.0.0",
-    "download_url": "https://github.com/ellanfvnky/mediaflow-updates/releases/tag/v3.0.0",
-    "notes": "Audio preview, thumbnail preview, metadata embedding"
+    "version": "3.5.0",
+    "download_url": "https://github.com/ellanfvnky/MediaFlow/releases/latest",
+    "notes": "Full rewrite using Electron + React + Vite, modern UI with Tailwind CSS, built-in auto updater"
 }
