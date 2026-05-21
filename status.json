@@ -3,8 +3,15 @@
   "message": "MediaFlow sedang maintenance. Silakan coba lagi nanti.",
   "returnTime": "",
   "disableDownloads": false,
-  "minVersion": "3.5.0",
-  "announcement": "",
+  "minVersion": "1.0.0",
+  "announcement": {
+    "enabled": false,
+    "title": "MediaFlow Update",
+    "message": "",
+    "type": "info",
+    "dismissible": true,
+    "timestamp": 0
+  },
   "announcementEnabled": false,
   "blockedVersions": [],
   "updateChannel": "stable",
