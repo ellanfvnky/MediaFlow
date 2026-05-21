@@ -1,0 +1,20 @@
+{
+  "maintenance": false,
+  "message": "",
+  "returnTime": "",
+  "announcement": "",
+  "announcementEnabled": false,
+  "disableDownloads": false,
+  "minVersion": "3.5.0",
+  "blockedVersions": [],
+  "updateChannel": "stable",
+  "forceUpdate": false,
+  "featureFlags": {
+    "smartQueue": true,
+    "newUI": true,
+    "experimentalDownloader": false,
+    "aiSearch": false,
+    "betaPlayer": true,
+    "advancedLogs": true
+  }
+}
