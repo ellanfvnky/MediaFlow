@@ -1,5 +1,5 @@
 {
     "version": "3.6.0",
     "download_url": "https://github.com/ellanfvnky/MediaFlow/releases/latest",
-    "notes": "Added AI Search feature powered by Gemini AI, bug fixes and improvements"
+    "notes": "Added AI Search feature powered by Gemini AI|Update system now uses version.json|Bug fixes and improvements"
 }
