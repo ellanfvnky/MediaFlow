@@ -1,5 +1,5 @@
 {
-    "version": "3.5.0",
+    "version": "3.6.0",
     "download_url": "https://github.com/ellanfvnky/MediaFlow/releases/latest",
-    "notes": "Full rewrite using Electron + React + Vite, modern UI with Tailwind CSS, built-in auto updater"
+    "notes": "Added AI Search feature powered by Gemini AI, bug fixes and improvements"
 }
