@@ -20,7 +20,7 @@
     "smartQueue": true,
     "newUI": true,
     "experimentalDownloader": false,
-    "aiSearch": false,
+    "aiSearch": true,
     "betaPlayer": true,
     "advancedLogs": true
   }
