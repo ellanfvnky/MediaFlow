@@ -23,7 +23,8 @@ MediaFlow is a modern desktop application for downloading and converting media f
 ---
 
 ## 🖥️ Screenshots
-<img width="1200" height="820" alt="image" src="https://github.com/user-attachments/assets/f7ecb293-7ad3-4908-b65a-350b581984fd" />
+<img width="1200" height="820" alt="image" src="https://github.com/user-attachments/assets/08a0b205-fad0-48f9-933e-0f946aed62d6" />
+
 
 
 
