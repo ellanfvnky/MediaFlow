@@ -1,5 +1,5 @@
 {
-    "version": "3.8.0",
+    "version": "4.0.0",
     "download_url": "https://github.com/ellanfvnky/MediaFlow/releases/latest",
-    "notes": "Added new Chord Finder feature to search song chords instantly|Added Smart Auto-Folder to automatically organize downloaded files into Music, Video, and Artwork folders|Fixed 'File Not Found' bug when using sub-directories|Fixed yt-dlp version showing 'Unknown' on slower computers"
+    "notes": "Added new AI Stem Separator for vocal and instrumental isolation|Added Live Audio Trimmer with real-time waveform and fade effects|Added ID3 Metadata Editor to customize audio tags and cover art|Fully translated UI into English for global users|Removed legacy bloatware for faster startup and performance"
 }
